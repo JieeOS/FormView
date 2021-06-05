@@ -1,0 +1,3 @@
+rootProject.name = "FormView"
+include ':app'
+include ':lib-form'
